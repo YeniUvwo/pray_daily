@@ -171,7 +171,6 @@
                     <div>
                         <span class="theme-pill">✦ Begin with gratitude</span>
                         <h3>${escapeHTML(featured.title)}</h3>
-                        <p>Pause before asking for anything. Remember what God has done, thank Him for what is present, and trust Him with what is still unfolding.</p>
                     </div>
                     <div class="feature-actions">
                         <a class="button button-primary" href="#prayer=${encodeURIComponent(featured.id)}">Begin prayer</a>
